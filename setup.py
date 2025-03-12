@@ -24,7 +24,7 @@ setup(
         "console_scripts": ["deepsearcher=deepsearcher.cli:main"],
     },
     description="None",
-    author="Cheney Zhang",
+    author="Ujwol Dahal",
     author_email="277584121@qq.com",
     url="https://github.com/zilliztech/deep-searcher",
 )
